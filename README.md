@@ -29,7 +29,7 @@ This project answers specific analytical questions over a dataset, delivering in
 | Dimension | Rating |
 |-----------|--------|
 | 🧩 Complexity | `2 / 10` |
-| ⚡ Implementation Speed | 45 minutes for core logic | 4 hours for performance and enhance |
+| ⚡ Implementation Speed | 45 minutes for core logic & 4 hours for performance and enhancements |
 | 🏋️ Main Challenge | Readability, encapsulation & performance |
 
 ---
