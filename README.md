@@ -8,7 +8,7 @@
 
 The dataset used in this project is available via Google Drive:
 
-🔗 [Access the dataset here](https://drive.google.com/file/d/1tjJwXzyUIkWCtUY4Y4rm4M2fKmo6bZnM/view?usp=sharing)
+🔗 [Access the dataset here](https://drive.google.com/file/d/1tjJwXzyUIkWCtUY4Y4rm4M2fKmo6bZnM/view?usp=drive_link)
 
 ---
 
@@ -29,7 +29,7 @@ This project answers specific analytical questions over a dataset, delivering in
 | Dimension | Rating |
 |-----------|--------|
 | 🧩 Complexity | `2 / 10` |
-| ⚡ Implementation Speed | 45 minutes for core logic |
+| ⚡ Implementation Speed | 45 minutes for core logic | 4 hours for performance and enhance |
 | 🏋️ Main Challenge | Readability, encapsulation & performance |
 
 ---
