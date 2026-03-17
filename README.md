@@ -8,7 +8,7 @@
 
 The dataset used in this project is available via Google Drive:
 
-🔗 [Access the dataset here](https://drive.google.com/drive/folders/1iSrASnt0vkSNjq66a3RVdy5adFiw5qqX)
+🔗 [Access the dataset here](https://drive.google.com/file/d/1tjJwXzyUIkWCtUY4Y4rm4M2fKmo6bZnM/view?usp=sharing)
 
 ---
 
