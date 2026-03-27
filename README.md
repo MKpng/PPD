@@ -8,7 +8,7 @@
 
 The dataset used in this project is available via Google Drive:
 
-🔗 [Access the dataset here](https://drive.google.com/file/d/1tjJwXzyUIkWCtUY4Y4rm4M2fKmo6bZnM/view?usp=drive_link)
+🔗 [Access the dataset here](https://drive.google.com/drive/folders/1t-Zyudaot0C7BOxQs79PtcENZgEpnNEi)
 
 ---
 
@@ -29,12 +29,4 @@ This project answers specific analytical questions over a dataset, delivering in
 | Dimension | Rating |
 |-----------|--------|
 | 🧩 Complexity | `2 / 10` |
-| ⚡ Implementation Speed | 45 minutes for core logic & 4 hours for performance and enhancements |
 | 🏋️ Main Challenge | Readability, encapsulation & performance |
-
----
-
-## 🧠 Key Learnings
-
-- Using `_` prefix to signal **private/internal** methods and variables, making them conventionally protected and easier to refactor in the future
-- Overriding **dunder methods** (e.g. `__str__`, `__repr__`) inherited from Python's base `object` class to customize default behavior and improve output readability
